@@ -6,7 +6,7 @@
 
 /**
  *
- * @author riskiawp
+ * @author nabillabsyrl
  */
 public class NewJFrame extends javax.swing.JFrame {
 
@@ -105,7 +105,7 @@ public class NewJFrame extends javax.swing.JFrame {
         getContentPane().add(jLabel9);
         jLabel9.setBounds(130, 160, 50, 14);
 
-        jPanel1.setBackground(new java.awt.Color(153, 153, 255));
+        jPanel1.setBackground(new java.awt.Color(255, 102, 102));
         jPanel1.setLayout(null);
 
         jButton1.setText("PROSES");
